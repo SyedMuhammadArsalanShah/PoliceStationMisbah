@@ -1,0 +1,37 @@
+D:\ASPWithMVC\project\project\bin\Debug\project.exe.config
+D:\ASPWithMVC\project\project\bin\Debug\project.exe
+D:\ASPWithMVC\project\project\bin\Debug\project.pdb
+D:\ASPWithMVC\project\project\bin\Debug\Bunifu_UI_v1.52.dll
+D:\ASPWithMVC\project\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\ASPWithMVC\project\project\obj\Debug\project.Dashboard.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.Form1.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.Login.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.Properties.Resources.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\ASPWithMVC\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\ASPWithMVC\project\project\obj\Debug\project.csproj.CopyComplete
+D:\ASPWithMVC\project\project\obj\Debug\project.exe
+D:\ASPWithMVC\project\project\obj\Debug\project.pdb
+D:\ASPWithMVC\project\project\obj\Debug\project.Cases.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.Charges.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.Criminals.resources
+D:\ASPWithMVC\project\project\obj\Debug\project.Polices.resources
+D:\ASPWithMVC\project\project\bin\Debug\Guna.UI.dll
+D:\ASPWithMVC\project\project\obj\Debug\project.LoginPage.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.exe
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.pdb
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\bin\Debug\project.exe.config
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\bin\Debug\project.exe
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\bin\Debug\project.pdb
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Cases.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Charges.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Criminals.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Dashboard.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Form1.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Login.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Polices.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\Downloads\New folder (3)\project\obj\Debug\project.csproj.CopyComplete
